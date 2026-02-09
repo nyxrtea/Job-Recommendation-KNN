@@ -1,4 +1,4 @@
-# Dokumentasi Proyek — Job-Recommendation-KNN
+# Job-Recommendation-KNN
 
 Rekomendasi Karir Berdasarkan Minat dan Bakat Menggunakan Algoritma KNN  
 
